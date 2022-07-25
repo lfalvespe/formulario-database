@@ -1,6 +1,11 @@
 # formulario-database
 
-Mostrando a configuração da conexão do Formulário em PHP com um banco de dados MySQL.
+Formulário em PHP conectado à um banco de dados MySQL.
+
+<div align="center">
+<img src="prints/print-formulario.PNG" width="700">
+</div>
+
 
 
 http://formulariodb.epizy.com/
