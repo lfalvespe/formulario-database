@@ -31,7 +31,6 @@
 
         $result = mysqli_query($conexao, "INSERT INTO clientes(nome,email,telefone,genero,nasc,cidade,estado,endereco) 
         VALUES ('$nome', '$email', '$telefone', '$genero', '$nasc', '$cidade', '$estado', '$endereco')");
-
     }
 
 ?>
