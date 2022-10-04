@@ -6,7 +6,7 @@ Formulário em PHP conectado à um banco de dados MySQL.
 
 Visualizar site: http://formulariodb.epizy.com/
 <br><br>
-<img src="prints/print-formulario.PNG" width="700">
+<img src="prints/formulario-db.png" width="700">
 </div>
 
 
